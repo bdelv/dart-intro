@@ -1,0 +1,9 @@
+name: 'dart-intro'
+version: 0.1.0
+description: An old school intro for Dartpad.
+author: <Brice Delvallee> <brice.delvallee@gmail.com>
+#homepage: https://www.example.com
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  browser: any
